@@ -67,7 +67,7 @@ This folder contains the official website for MemoryVerse, including all legal d
 
 ### Update Contact Information
 
-Replace `support@pintayo.com` throughout the files with your actual support email.
+Replace `pintayo.dev@gmail.com` throughout the files with your actual support email.
 
 ### Update App Store Links
 
@@ -136,7 +136,7 @@ open http://localhost:8000
 
 ## 📧 Support
 
-For questions or issues, contact: support@pintayo.com
+For questions or issues, contact: pintayo.dev@gmail.com
 
 ---
 
